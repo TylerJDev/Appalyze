@@ -1,0 +1,15 @@
+{
+  "short_name": "Appalyze",
+  "name": "Visualize your chats!",
+  "icons": [
+    {
+      "src": "a_favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

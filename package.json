@@ -1,0 +1,28 @@
+{
+  "name": "Appalyze",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://tylerjcodes.github.io/",
+  "dependencies": {
+    "@material-ui/core": "^1.2.1",
+    "@material-ui/icons": "^1.1.0",
+    "bootstrap": "^4.1.1",
+    "chart.js": "^2.7.2",
+    "fullpage.js": "^2.9.7",
+    "jquery": "^3.3.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "scrollreveal": "^3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
