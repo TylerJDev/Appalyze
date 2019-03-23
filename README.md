@@ -11,8 +11,6 @@ It's simple! To analyse your WhatsApp chat, grab your phone follow these steps:
 2. Tap **"Export Chat (without media)"**
 3. Upload the chat by clicking **"Upload File"** on Appalyze!
 
-[Demo Results](http://appalyze.surge.sh/result)
-
 ***To-Do:***
   - Add more sections:
     - words comparison ( at least 5 more )
