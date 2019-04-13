@@ -1071,7 +1071,7 @@ const Topic = ({ match }) => (
   </div>
 )
 
-const Topics = ({ match }) => (
+/* const Topics = ({ match }) => (
   <div>
     <h2>Topics</h2>
     <ul>
@@ -1097,14 +1097,14 @@ const Topics = ({ match }) => (
       <h3>Please select a topic.</h3>
     )}/>
   </div>
-)
+) */
 
 const App = () => (
   <Router>
     <div style={{height: '100%'}}>
       <Route exact path="/" component={Home}/>
       <Route path="/result" component={Result}/>
-      <Route path="/topics" component={Topics}/>
+      // <Route path="/topics" component={Topics}/>
     </div>
   </Router>
 )
