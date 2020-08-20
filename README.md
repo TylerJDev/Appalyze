@@ -1,4 +1,5 @@
 # Appalyze
+**⚠️ Note - This project is not currently being maintained, but may be picked back up in the future!**
 
 ## What is Appalyze?
 [Appalyze](http://appalyze.surge.sh/) parses data from your WhatsApp chat and displays it in an easy-to-read infographic. All data is processed through the front-end so all your information is only available *you*.
